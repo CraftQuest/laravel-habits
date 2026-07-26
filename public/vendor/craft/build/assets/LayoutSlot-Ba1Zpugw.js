@@ -1,0 +1,1 @@
+import{C as e,F as t,M as n,N as r,R as i,d as a,h as o}from"./vue.esm-bundler-CFvpEgQa.js";import{n as s,r as c}from"./layoutSlots-BmTXS-Re.js";var l=e({__name:`LayoutSlot`,props:{name:{}},setup(e){let l=e;return r(()=>s(l.name)),n(()=>c(l.name)),(n,r)=>(t(),o(a,{defer:``,to:`[data-layout-slot='${e.name}']`},[i(n.$slots,`default`)],8,[`to`]))}});export{l as t};

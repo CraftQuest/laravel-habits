@@ -1,0 +1,1 @@
+import{t as e}from"./ru-B2Pvnnx0.js";var t={...e};export{t as default};
