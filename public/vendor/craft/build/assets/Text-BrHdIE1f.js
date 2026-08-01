@@ -1,1 +1,0 @@
-import{o as e}from"./nav-item-rzpCmjrR-CTzArtfO.js";import{A as t,B as n,C as r,F as i,h as a,p as o}from"./vue.esm-bundler-CFvpEgQa.js";var s=r({__name:`Text`,props:{as:{default:`div`},template:{},params:{}},setup(r){let s=r,c=o(()=>e(s.template,s.params));return(e,o)=>(i(),a(n(r.as),t(e.$attrs,{innerHTML:c.value}),null,16,[`innerHTML`]))}});export{s as t};

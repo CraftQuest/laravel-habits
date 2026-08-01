@@ -7,7 +7,6 @@
     "license": "MIT",
     "require": {
         "php": "^8.3",
-        "craftcms/cms": "6.x-dev",
         "laravel/framework": "^13.8",
         "laravel/tinker": "^3.0"
     },
@@ -78,7 +77,6 @@
         "preferred-install": "dist",
         "sort-packages": true,
         "allow-plugins": {
-            "craftcms/plugin-installer": true,
             "pestphp/pest-plugin": true,
             "php-http/discovery": true
         }

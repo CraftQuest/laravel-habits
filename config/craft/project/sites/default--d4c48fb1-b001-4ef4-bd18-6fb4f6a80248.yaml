@@ -1,8 +1,0 @@
-baseUrl: $APP_URL
-handle: default
-hasUrls: true
-language: en
-name: 'Craft in Laravel'
-primary: true
-siteGroup: ae137db2-05c9-46be-ab1d-89115bb8ab4e # Craft in Laravel
-sortOrder: 1

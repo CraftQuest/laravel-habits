@@ -1,1 +1,0 @@
-import{at as e}from"./vue.esm-bundler-CFvpEgQa.js";var t=e(new Map);function n(e){t.set(e,(t.get(e)??0)+1)}function r(e){let n=(t.get(e)??0)-1;n<=0?t.delete(e):t.set(e,n)}function i(e){return(t.get(e)??0)>0}export{n,r,i as t};
